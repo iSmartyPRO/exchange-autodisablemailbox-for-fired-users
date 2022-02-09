@@ -1,0 +1,10 @@
+{
+  "searchBase": "OU=Fired_Users,DC=example,DC=com",
+  "serverName": "APIServer",
+  "filterMonth": 2,
+  "from": "EXAMPLE Portal <EXAMPLE.Portal@example.com>",
+  "to": "EXAMPLE Admins <admins@example.com>",
+  "subject": "Disabled corporate emails",
+  "mailServer": "exchange.example.com",
+  "exchangePowerShell": "http://exchange.example.com/PowerShell/"
+}
